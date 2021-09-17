@@ -1,0 +1,7 @@
+POST http://localhost:8001/api/infouser
+Content-Type: application/json
+
+{
+    "Token": "10|vOWjYdInn2c3CKqi7kb704G2xc0QuWJ2GpPjegfS"
+"
+}
